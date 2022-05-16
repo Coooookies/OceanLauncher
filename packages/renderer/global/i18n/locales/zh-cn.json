@@ -1,0 +1,84 @@
+{
+  "server": {
+    "edit": {
+      "name_placeholder": "服务器名称",
+      "name": "名称",
+      "config": "配置",
+      "hostname_placeholder": "地址",
+      "port_placeholder": "端口",
+      "code_placeholder": "服务器代码",
+      "code": "代码",
+      "paste": "粘贴",
+      "import": "添加服务器",
+      "edit": "编辑服务器",
+      "save_fab": "保存",
+      "code_fab": "代码",
+      "edit_fab": "编辑"
+    },
+    "guide": {
+      "import": "立即添加",
+      "notfound": "没有服务器，要不添加一个？"
+    },
+    "card": {
+      "created": "创建于",
+      "loading": "正在连接...",
+      "notconnection": "无连接",
+      "offline": "离线",
+      "online": "在线",
+      "play": "加入",
+      "unsupported": "不支持",
+      "menu": {
+        "edit": "编辑",
+        "delete": "删除",
+        "export": "分享"
+      }
+    }
+  },
+  "game": {
+    "edit": {
+      "dialog_title": "设置游戏路径",
+      "remark_placeholder": "写点什么，可以是你喜欢的东西。",
+      "remark": "备注",
+      "path_placeholder": "选择文件夹",
+      "path": "游戏路径",
+      "unavailable": "无效",
+      "import": "添加客户端",
+      "edit": "编辑客户端",
+      "save_fab": "保存"
+    }
+  },
+  "launch": {
+    "client": {
+      "loading": "正在启动游戏..."
+    },
+    "status": {
+      "host": "地址",
+      "killprocess": "结束游戏",
+      "export": "分享"
+    }
+  },
+  "setting": {
+    "title": "设置",
+    "exit": "退出",
+    "notfound": "貌似啥都没有...",
+    "setting_general": "常规",
+    "setting_game": "游戏",
+    "setting_proxy": "代理",
+    "setting_about": "关于",
+    "setting_general_content": {
+      "language": "语言"
+    },
+    "setting_game_content": {
+      "manager": "游戏管理",
+      "add": "添加客户端"
+    }
+  },
+  "time": {
+    "justnow": "刚刚",
+    "yesterday": "昨天",
+    "minutesago": "{m}分钟前",
+    "hoursago": "{h}小时前",
+    "daysago": "{d}天前",
+    "weeksago": "{w}周前"
+  }
+}

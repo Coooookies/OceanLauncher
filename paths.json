@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "packages/renderer/*"
+      ],
+      "@main/*": [
+        "packages/renderer/main/src/*"
+      ],
+      "@popup/*": [
+        "packages/renderer/popup/src/*"
+      ]
+    }
+  }
+}

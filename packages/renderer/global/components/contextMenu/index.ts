@@ -1,0 +1,1 @@
+export { default as MContextMenu } from './contextMenu.vue';

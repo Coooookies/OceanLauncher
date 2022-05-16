@@ -1,0 +1,84 @@
+{
+  "server": {
+    "edit": {
+      "name_placeholder": "Server name",
+      "name": "Name",
+      "config": "Config",
+      "hostname_placeholder": "Hostname",
+      "port_placeholder": "Port",
+      "code_placeholder": "Server code",
+      "code": "Code",
+      "paste": "Paste",
+      "import": "Import",
+      "edit": "Edit",
+      "save_fab": "Save",
+      "code_fab": "Code",
+      "edit_fab": "Edit"
+    },
+    "guide": {
+      "import": "Import",
+      "notfound": "Server not found."
+    },
+    "card": {
+      "created": "Created",
+      "loading": "Pending...",
+      "notconnection": "No connection",
+      "offline": "Offline",
+      "online": "Online",
+      "play": "Play",
+      "unsupported": "Disable",
+      "menu": {
+        "edit": "Edit",
+        "delete": "Delete",
+        "export": "Share"
+      }
+    }
+  },
+  "game": {
+    "edit": {
+      "dialog_title": "Select game folder",
+      "remark_placeholder": "Write something?",
+      "remark": "Remark",
+      "path_placeholder": "Set executable",
+      "path": "Executable",
+      "unavailable": "Invalid",
+      "import": "Import",
+      "edit": "Edit",
+      "save_fab": "Save"
+    }
+  },
+  "launch": {
+    "client": {
+      "loading": "Starting..."
+    },
+    "status": {
+      "host": "Host",
+      "killprocess": "Close the game",
+      "export": "Share"
+    }
+  },
+  "setting": {
+    "title": "Setting",
+    "exit": "Exit",
+    "notfound": "Nothing found...",
+    "setting_general": "General",
+    "setting_game": "Game",
+    "setting_proxy": "Proxy",
+    "setting_about": "About",
+    "setting_general_content": {
+      "language": "Language"
+    },
+    "setting_game_content": {
+      "manager": "Game manager",
+      "add": "Add"
+    }
+  },
+  "time": {
+    "justnow": "Just now",
+    "yesterday": "Yesterday",
+    "minutesago": "{m} minute(s) ago",
+    "hoursago": "{h} hour(s) ago",
+    "daysago": "{d} day(s) ago",
+    "weeksago": "{w} week(s) ago"
+  }
+}

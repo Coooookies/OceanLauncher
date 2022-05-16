@@ -1,0 +1,1 @@
+export { default as MScreenTransition } from './screenTransition.vue';

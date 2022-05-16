@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  user-select: none;
+  font-family: MiSans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+// *::selection {
+//   background-color: var(--main-color);
+//   color: white;
+// }
+
+@font-face {
+  font-family: "MiSans";
+  src: url("../font/MiSans-Normal.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MiSans";
+  src: url("../font/MiSans-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "MiSans";
+  src: url("../font/MiSans-Semibold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "MiSans";
+  src: url("../font/MiSans-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}

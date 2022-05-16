@@ -1,0 +1,1 @@
+export { default as MSignal } from './signal.vue';
