@@ -1,7 +1,7 @@
 # OceanLauncher
 The launcher is being recoding
 
-##How to use
+## How to use
 1. [Download](https://github.com/Coooookies/OceanLauncher/releases/download/v1.0.1/app-64.zip)
 2. Run `gsLauncher.exe`
 3. Set your game executable in setting
@@ -9,17 +9,17 @@ The launcher is being recoding
 5. Enjoy
 
 
-##Instal
+### Instal
 ```
 npm install
 ```
 
-##Development
+### Development
 ```
 npm run dev
 ```
 
-##Build
+### Build
 ```
 npm run build
 ```
