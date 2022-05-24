@@ -9,7 +9,7 @@ The launcher is being recoding
 5. Enjoy
 
 
-### Instal
+### Install
 ```
 npm install
 ```
